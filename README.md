@@ -38,8 +38,8 @@ The data is credible, since the datasets are:
 
 -   **Reliable** - relevant data is included in each ride,
 -   **Original** - the datasets are provided by Cyclistic with a license,
--   **Comprehensive** - relevant data is provided by month, and the last 14 months worth of data contain no significant gaps,
--   **Current** - the dataset includes the last 14 months, and
+-   **Comprehensive** - relevant data is provided by month, and there is data for each month of last year,
+-   **Current** - the dataset includes last year's data, which may reveal trends within a Cyclistic's financial year, and
 -   **Cited** - the data source is revealed with a license for permitted use.
 
 ### Documentation of Data Preparation
