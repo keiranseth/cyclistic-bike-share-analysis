@@ -16,6 +16,8 @@ With the ultimate goal of increasing annual memberships, our goal as the analyti
 
 As of June 2025, the analytics team will use 2024's entire [Cyclistic's bike trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) spanning 12 months, which is made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
 
+See the [original dataset](https://drive.google.com/file/d/16wliXSMBTFmEKHfyWIAZ914GubXTE1bR/view?usp=drive_link) used for this project.
+
 The dataset is partitioned by month, and _initially_ contains the following columns:
 
 -   `ride_id` - unique identifier of the bike ride
@@ -43,6 +45,8 @@ The data is credible, since the datasets are:
 -   **Cited** - the data source is revealed with a license for permitted use.
 
 ### Documentation of Data Preparation
+
+See the [data preparation process](./data_preparation.md).
 
 ### Data Analysis Report
 
