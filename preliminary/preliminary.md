@@ -49,6 +49,46 @@ See the figures obtained in this report [here](insert uploaded excel file here).
 
 ![alt text](image-10.png)
 
+-   Most stations in the top 40 start stations are also in the top 40 end stations.
+-   Only two stations each in the two top 40 lists are not in the other list.
+
 ## 6. What is the average and maximum ride duration? What is the total count?
 
 ![alt text](image-11.png)
+
+-   While there are more around `76%` more members than casual riders, casual riders have longer ride durations than members.
+
+## 7. What is the trend during a typical week?
+
+![alt text](image-12.png)
+
+![alt text](image-16.png)
+
+-   The ride duration is higher during the weekends (`Sunday` and `Saturday`) compared to the weekdays.
+
+![alt text](image-17.png)
+
+-   The number of riders are higher during `Wednesday` and `Saturday`.
+
+## 8. What is the monthly trend of 2024?
+
+![alt text](image-14.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+-   Months from April to October have longer ride durations and higher number of riders compared to months from January to April and November to December.
+-   Months from April to October pass the 15-minute mark. That is, riders bike for at least 15 minutes on average.
+
+## 9. What is the quarterly trend of 2024?
+
+![alt text](image-15.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+-   Since we found longer ride durations and higher number of bike rides from April to October, it only makes sense that quarters 2 and 3 are found to have longer ride durations and higher number of bike rides, as well.
+
+## 10. How do these trends differ between the casual riders and members?
