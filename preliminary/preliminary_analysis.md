@@ -25,7 +25,11 @@ Comparison between casual riders and members:
     <img src="image.png"
          alt="Distribution of Riders by Membership Type">
     <figcaption><em>Distribution of Riders by Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
+
+<br>
 
 > As we already know, there are more members than casuals.
 
@@ -33,7 +37,9 @@ Comparison between casual riders and members:
     <img src="image-1.png"
          alt="Proportion of Riders by Membership Type">
     <figcaption><em>Proportion of Riders by Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > `1,521,621` riders, around `36.16%` of all riders, are only casuals.
 > `2,728,147` riders, around `63.84%` of all riders in 2024, are members.
@@ -44,13 +50,17 @@ Comparison between casual riders and members:
     <img src="image-2.png"
          alt="Distribution of Riders by Bike Type">
     <figcaption><em>Distribution of Riders by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-3.png"
          alt="Proportion of Riders by Bike Type">
     <figcaption><em>Proportion of Riders by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > A majority of the riders use classic bikes, more than electric bikes and electric scooters combined.
 
@@ -60,13 +70,17 @@ Comparison between casual riders and members:
     <img src="image-4.png"
          alt="Distribution of Riders by Bike Type and Membership Type">
     <figcaption><em>Distribution of Riders by Bike Type and Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-5.png"
          alt="Proportion of Riders by Bike Type and Membership Type">
     <figcaption><em>Proportion of Riders by Bike Type and Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > Among riders who use classic and electric bikes, members are greater than casual riders.
 
@@ -80,19 +94,25 @@ Comparison between casual riders and members:
     <img src="image-8.png"
          alt="Table Containing the Total and Average Rider Count by Day of Week in 2024">
     <figcaption><em>Total and Average Rider Count by Day of Week in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-6.png"
          alt="Distribution of the Total Rider Count by Day of Week in 2024">
     <figcaption><em>Distribution of the Total Rider Count by Day of Week in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-7.png"
          alt="Trend of Average Rider Count by Day of Week in 2024">
     <figcaption><em>Trend of Average Rider Count by Day of Week in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > The total and average rider count usually settle around the same level in most days of the week, except for the sudden spikes in `Wednesday` and `Saturday`.
 
@@ -100,13 +120,17 @@ Comparison between casual riders and members:
     <img src="image-10.png"
          alt="Distribution of the Total Ride Count by Day of Week and Membership Type">
     <figcaption><em>Distribution of the Total Ride Count by Day of Week and Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-11.png"
          alt="Trend of Average Rider Count by Day of Week and Membership Type">
     <figcaption><em>Trend of Average Rider Count by Day of Week and Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > Members bike more on weekdays, while casuals bike more on the weekends.
 >
@@ -118,13 +142,17 @@ Comparison between casual riders and members:
     <img src="image-12.png"
          alt="Distribution of the Total Ride Count by Day of Week and Bike Type">
     <figcaption><em>Distribution of the Total Ride Count by Day of Week and Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-13.png"
          alt="Trend of Average Rider Count by Day of Week and Bike Type">
     <figcaption><em>Trend of Average Rider Count by Day of Week and Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > There are no discernible patterns to be gained from looking at the rider counts by bike type.
 >
@@ -136,37 +164,49 @@ Comparison between casual riders and members:
     <img src="image-9.png"
          alt="Monthly Rider Count and Percentage Difference from Previous Month">
     <figcaption><em>Monthly Rider Count and Percentage Difference from Previous Month</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-14.png"
          alt="Monthly Distribution of the Total Ride Count">
     <figcaption><em>Nonthly Distribution of the Total Ride Count</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-15.png"
          alt="Monthly Rider Count in terms of Membership Type">
     <figcaption><em>Monthly Rider Count in terms of Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-16.png"
          alt="Nonthly Distribution of the Total Ride Count Partitioned by Membership Type">
     <figcaption><em>Nonthly Distribution of the Total Ride Count Partitioned by Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-17.png"
          alt="Monthly Rider Count in terms of Bike Type">
     <figcaption><em>Monthly Rider Count in terms of Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-18.png"
          alt="Monthly Distribution of the Total Ride Count Partitioned by Bike Type">
     <figcaption><em>Monthly Distribution of the Total Ride Count Partitioned by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 #### 4.3. What is the total rider count quarterly? How does this average differ between membership types? Bike types?
 
@@ -174,13 +214,17 @@ Comparison between casual riders and members:
     <img src="image-19.png"
          alt="Quarterly Distribution of the Total Ride Count">
     <figcaption><em>Quarterly Distribution of the Total Ride Count</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-20.png"
          alt="Quarterly Distribution of the Total Ride Count Partitioned by Bike Type">
     <figcaption><em>Quarterly Distribution of the Total Ride Count Partitioned by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 ### 5. What are the total, average, and maximum ride durations?
 
@@ -188,7 +232,9 @@ Comparison between casual riders and members:
     <img src="image-21.png"
          alt="The total, average, and maximum ride duration in 2024">
     <figcaption><em>The total, average, and maximum ride duration in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > There is a total ride duration of `1,168,374` million hours, `21` minutes, and `41` seconds in 2024.
 >
@@ -202,7 +248,9 @@ Comparison between casual riders and members:
     <img src="image-22.png"
          alt="The total and average ride duration Partitioned by Membership">
     <figcaption><em>The total and average ride duration Partitioned by Membership</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > The total ride duration by casual riders in 2024 is `609,957` hours, `45` minutes, and `59` seconds. Their average ride duration in `24` minutes and `3` seconds.
 >
@@ -216,7 +264,9 @@ Comparison between casual riders and members:
     <img src="image-23.png"
          alt="The total and average ride duration Partitioned by Bike Type">
     <figcaption><em>The total and average ride duration Partitioned by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 > Since we already know that classic bikes are used most often, electric bikes are used second most often, and electric scooters are used rarely, it's not surprising that this is also reflected in their respective total and average ride durations.
 
@@ -234,31 +284,41 @@ Comparison between casual riders and members:
     <img src="image-25.png"
          alt="Total and Average Ride Duration by Day of Week in 2024">
     <figcaption><em>Total and Average Ride Duration by Day of Week in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-26.png"
          alt="Distribution of the Total Ride Duration by Day of Week in 2024">
     <figcaption><em>Distribution of the Total Ride Duration by Day of Week in 2024</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-27.png"
          alt="Trend of Average Ride Duration by Day of Week">
     <figcaption><em>Trend of Average Ride Duration by Day of Week</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-28.png"
          alt="Distribution of the Total Ride Duration by Day of Week partitioned by Membership">
     <figcaption><em>Distribution of the Total Ride Duration by Day of Week partitioned by Membership</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-29.png"
          alt="Trend of Average Ride Duration by Day of Week and Membership Type">
     <figcaption><em>Trend of Average Ride Duration by Day of Week and Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 #### 9.2. What is the total and average ride duration monthly? How does this average differ between membership types? Bike types?
 
@@ -266,37 +326,49 @@ Comparison between casual riders and members:
     <img src="image-32.png"
          alt="Monthly Distribution of the Total Ride Duration">
     <figcaption><em>Monthly Distribution of the Total Ride Duration</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-33.png"
          alt="Monthly Trend of Average Ride Duration">
     <figcaption><em>Monthly Trend of Average Ride Duration</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-30.png"
          alt="Monthly Distribution of the Total Ride Duration partitioned by Membership">
     <figcaption><em>Monthly Distribution of the Total Ride Duration partitioned by Membership</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-31.png"
          alt="Monthly Trend of Average Ride Duration by Membership Type">
     <figcaption><em>Monthly Trend of Average Ride Duration by Membership Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-34.png"
          alt="Monthly Distribution of the Total Ride Duration partitioned by Bike Type">
     <figcaption><em>Monthly Distribution of the Total Ride Duration partitioned by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 <figure>
     <img src="image-35.png"
          alt="Monthly Trend of Average Ride Duration by Bike Type">
     <figcaption><em>Monthly Trend of Average Ride Duration by Bike Type</em></figcaption>
-</figure><br>
+</figure>
+
+<br>
 
 #### 9.3. What is the total and average ride duration quarterly? How does this average differ between membership types? Bike types?
 
