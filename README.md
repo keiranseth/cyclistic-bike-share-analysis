@@ -8,7 +8,7 @@ This data analysis project is my attempt at tackling the Google Data Analytics P
 
 With the ultimate goal of increasing annual memberships, our goal as the analytics team is to determine and understand the difference between how annual members and casual riders use Cyclistic's services. Answering this difference may help the company convince casual riders into becoming members.
 
-#### Central Problem for the Analytics Team
+#### Problem Statement for the Analytics Team
 
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 
@@ -50,8 +50,51 @@ See the [data preparation process](./data_preparation.md).
 
 ### Data Analysis Report
 
-See the final data analysis report.
+See the [final data analysis report](./report/report.pdf).
 
 See the [preliminary analysis report](./preliminary/preliminary_analysis.md).
 
 ### Summary of Analysis and Final Recommendation
+
+Here are the insights gathered by the analytics team.
+
+1. There as more members (at least twice as many as) than casual riders.
+2. Classic bikes are used by more than half of the rides in 2024. Electric bikes cover one-third. Electric scooters are rarely used.
+3. Across membership types, insight 2 still holds. However, note that among riders who used electric scooters, there are more casual riders than members.
+4. The average ride duration is 16 minutes and 39 seconds. The total ride duration exceeds 1,000,000 hours.
+5. On average, casual riders bike twice as long as members. They also dominate the total ride duration.
+6. Across all membership types, insight 2 still holds, and casual riders bike twice as long as members.
+7. Quarters 2 and 3 observe peaks in ride count and average ride duration.
+    - Across all quarters, there are at least 100% more members than casuals, but casuals still ride twice as long as members.
+    - Across all quarters, insight 2 still holds.
+8. Ride counts are observed to peak from May to October, while ride durations are observed to peak from May to August.
+    - Across all months, there are at least 100% more members than casuals, but casuals still ride longer than members.
+    - Across all months, except for August, insight 2 still holds.
+9. Average ride counts are observed to peak on Wednesday and Saturday, while average ride durations are observed to peak on the weekends (Saturday and Sunday).
+    - Across all days of the week, there are more members on average than casuals, but casuals still ride twice as long as members.
+    - Across all days of the week, insight 2 still holds.
+
+From these insights, let us now answer the problem statement.
+
+> **How do annual members and casual riders use Cyclistic bikes differently?**
+
+-   Annual members dominate the ride count across bicycle types, and across all quarters, months, and in any day of the week.
+-   Casual riders dominate the average ride duration across bicycle types, and across all quarters, months, and on any day of the week.
+-   The average ride duration of annual members is more or less within 12 to 14 minutes across all quarters, months, and on any day of the week.
+-   The average ride duration of casual riders is more or less within 14 to 28 minutes across all quarters, months, and on any day of the week.
+-   In the use of electric scooters in August and September, there are more casual riders than annual members.
+
+After finding out that casual riders bike twice as long as annual members, the analytics team mainly recommends more research on why this is so. Although we can formulate the following hypotheses:
+
+-   **Casual riders use the bike-share service for leisurely bike rides or for cycling exercise, especially on the weekends.**
+-   **Annual members use the bike-share service for utility and transportation/commute, especially on the weekends.**
+
+**_The analytics team cannot assess, or even support the veracity of these hypotheses from the current data we are given, unless we have more comprehensive data in the form of brief surveys and questionnaires to our entire consumer base._** Hopefully, with more comprehensive data for next year, the analytics team can uncover deeper insights.
+
+The main, but tentative, recommendation from the analytics team is:
+
+> **Create annual pricing plans tailored for prospective bikers and scooters who ride either for leisure and scenery rides, or for exercise, such as long-distance cycling.**
+
+Since the analytics team also looked at quarterly and monthly trends of the ride duration and average ride count, another recommendation by the analytics is:
+
+> **Increase or emphasize advertising for the months May to October, or quarters 2 and 3, using tailored pricing plans for leisure, recreation, or exercise to casual riders.**

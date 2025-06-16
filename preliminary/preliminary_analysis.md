@@ -22,6 +22,12 @@ Comparison between casual riders and members:
 ### 1. What is the distribution and proportion of riders in terms of membership type?
 
 <figure>
+    <img src="./images/image-51.png"
+         alt="Rider Count by Membership Type">
+    <figcaption><em>Rider Count by Membership Type</em></figcaption>
+</figure><br><br><br>
+
+<figure>
     <img src="./images/image.png"
          alt="Distribution of Riders by Membership Type">
     <figcaption><em>Distribution of Riders by Membership Type</em></figcaption>
@@ -144,6 +150,8 @@ Comparison between casual riders and members:
     <figcaption><em>Monthly Distribution of the Total Ride Count</em></figcaption>
 </figure><br><br><br>
 
+> Months `May` to `October` are observed as the peak months, exceeding `400,000` users in a month.
+
 <figure>
     <img src="./images/image-15.png"
          alt="Monthly Rider Count in terms of Membership Type">
@@ -155,6 +163,8 @@ Comparison between casual riders and members:
          alt="Monthly Distribution of the Total Ride Count Partitioned by Membership Type">
     <figcaption><em>Monthly Distribution of the Total Ride Count Partitioned by Membership Type</em></figcaption>
 </figure><br><br><br>
+
+> Throughout the whole year, the usual month has more members than casual riders.
 
 <figure>
     <img src="./images/image-17.png"
@@ -168,6 +178,8 @@ Comparison between casual riders and members:
     <figcaption><em>Monthly Distribution of the Total Ride Count Partitioned by Bike Type</em></figcaption>
 </figure><br><br><br>
 
+> Throughout the whole year, the usual month has more classic bike uses than electric bike uses. Electric scooters are not used except for the sudden spike of users in September.
+
 #### 4.3. What is the total rider count quarterly? How does this average differ between membership types? Bike types?
 
 <figure>
@@ -176,11 +188,23 @@ Comparison between casual riders and members:
     <figcaption><em>Quarterly Distribution of the Total Ride Count</em></figcaption>
 </figure><br><br><br>
 
+> Knowing that months `May` to `October` were the peak months, it makes sense that quarters `2` and `3` would be the peak quarters, exceeding a million users in one quarter.
+
 <figure>
     <img src="./images/image-20.png"
+         alt="Quarterly Distribution of the Total Ride Count Partitioned by Membership Type">
+    <figcaption><em>Quarterly Distribution of the Total Ride Count Partitioned by Membership Type</em></figcaption>
+</figure><br><br><br>
+
+> Throughout the whole year, the usual quarter has more members than casual riders.
+
+<figure>
+    <img src="./images/image-50.png"
          alt="Quarterly Distribution of the Total Ride Count Partitioned by Bike Type">
     <figcaption><em>Quarterly Distribution of the Total Ride Count Partitioned by Bike Type</em></figcaption>
 </figure><br><br><br>
+
+> Throughout the whole year, the usual quarter has more classic bike uses than electric bike uses. Electric scooters are not used except for the sudden spike of users in quarter `3`.
 
 ### 5. What are the total, average, and maximum ride durations?
 
@@ -216,6 +240,12 @@ Comparison between casual riders and members:
     <img src="./images/image-23.png"
          alt="The total and average ride duration Partitioned by Bike Type">
     <figcaption><em>The total and average ride duration Partitioned by Bike Type</em></figcaption>
+</figure><br><br><br>
+
+<figure>
+    <img src="./images/image-52.png"
+         alt="Distribution of Total Ride Duration by Bike Type">
+    <figcaption><em>Distribution of Total Ride Duration by Bike Type</em></figcaption>
 </figure><br><br><br>
 
 > Since we already know that classic bikes are used most often, electric bikes are used second most often, and electric scooters are used rarely, it's not surprising that this is also reflected in their respective total and average ride durations.
