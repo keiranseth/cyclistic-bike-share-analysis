@@ -50,7 +50,7 @@ See the [data preparation process](./data_preparation.md).
 
 ### Data Analysis Report
 
-See the [final data analysis report](./report/report.pdf).
+See the [final data analysis report](./report/final_report.pdf).
 
 See the [preliminary analysis report](./preliminary/preliminary_analysis.md).
 
